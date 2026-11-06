@@ -1,10 +1,16 @@
-Hi, I'm Om Prakash Chaudhary
-Software Developer |Senior WordPress Engineer | Generative AI Engineer
-I build production-ready WordPress platforms, AI-powered web applications, developer tools, and digital products.
+
+# 💫 Hi 👋,  I'm Om Prakash Chaudhary
+**Software Developer |Senior WordPress Engineer | Generative AI Engineer**
+**I build production-ready WordPress platforms, AI-powered web applications, developer tools, and digital products.
 Currently building AI-powered products and WordPress solutions.
 Working with Generative AI, Gemini, AI APIs, AI Agents, and Multimodal AI.
 Specialized in PHP, WordPress, Laravel, JavaScript, React, Node.js, and MySQL.
-Interested in AI-assisted development, WordPress architecture, SaaS, automation, and high-performance web applications.
+Interested in AI-assisted development, WordPress architecture, SaaS, automation, and high-performance web applications**
+
+
+Email Me 👉 ✉️ **op@ajupy.com** Visit **opchaudhary.online** For Collaboration/Project or Anything Else. 😊😊
+
+## 🔗 Developer. 😊😊
 ________________________________________
 
 
@@ -17,6 +23,10 @@ ________________________________________
 ![](https://github-readme-stats.shion.dev/api?username=opspj007&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=opspj007&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=opspj007&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=opspj007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -32,6 +42,14 @@ ________________________________________
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/omprakashchy1932@gmail.com) 
+
+  
+</div><br>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
