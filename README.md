@@ -40,11 +40,6 @@ Visit **[www.opchaudhary.online](https://www.opchaudhary.online)** for collabora
 </p>
 
 <br>
-
-<div align="center">
-    <a href="https://github.com/opspj007/github-readme-activity-graph"><img alt="opspj007's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=opspj007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</div>
-
 <br>
 
 - 😄 I have interests in Generative AI, WordPress architecture, SaaS, automation, and high-performance web applications
