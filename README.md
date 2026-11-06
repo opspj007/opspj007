@@ -8,7 +8,7 @@ Specialized in PHP, WordPress, Laravel, JavaScript, React, Node.js, and MySQL.
 Interested in AI-assisted development, WordPress architecture, SaaS, automation, and high-performance web applications**
 
 
-Email Me 👉 ✉️ **op@ajupy.com** Visit **opchaudhary.online** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **op@ajupy.com** Visit **www.opchaudhary.online** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🔗 Developer. 😊😊
 ________________________________________
