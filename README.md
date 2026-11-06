@@ -1,55 +1,230 @@
 
-# 💫 Hi 👋,  I'm Om Prakash Chaudhary
-**Software Developer |Senior WordPress Engineer | Generative AI Engineer**
-**I build production-ready WordPress platforms, AI-powered web applications, developer tools, and digital products.
-Currently building AI-powered products and WordPress solutions.
-Working with Generative AI, Gemini, AI APIs, AI Agents, and Multimodal AI.
-Specialized in PHP, WordPress, Laravel, JavaScript, React, Node.js, and MySQL.
-Interested in AI-assisted development, WordPress architecture, SaaS, automation, and high-performance web applications**
+# 💫 Hi 👋, I'm Om Prakash Chaudhary
 
+**Software Developer | Senior WordPress Engineer | Generative AI Engineer**
 
-Email Me 👉 ✉️ **op@ajupy.com** Visit **www.opchaudhary.online** For Collaboration/Project or Anything Else. 😊😊
+**I build production-ready WordPress platforms, AI-powered web applications, developer tools, and digital products.**  
+Currently building AI-powered products and WordPress solutions.  
+Working with Generative AI, Gemini, AI APIs, AI Agents, and Multimodal AI.  
+Specialized in PHP, WordPress, Laravel, JavaScript, React, Node.js, and MySQL.  
+Interested in AI-assisted development, WordPress architecture, SaaS, automation, and high-performance web applications.
 
-## 🔗 Developer. 😊😊
-________________________________________
+**5+ years of experience** building and developing web platforms and digital products.
 
+Email Me 👉 ✉️ **[op@ajupy.com](mailto:op@ajupy.com)**  
+Visit **[www.opchaudhary.online](https://www.opchaudhary.online)** for collaboration, projects, or anything else. 😊😊
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/opchycse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-prakash-chaudhary-nims/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@chaudharytraveller)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:opspj007@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=opspj007&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=opspj007&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=opspj007&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=opspj007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=opspj007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Developed projects:** [CanvasRoom.space](https://canvasroom.space) · [AJUPY AI](https://ajupy.com) · [Mahashankh](https://mahashankh.com)
 
 ---
-[![](https://komarev.com/ghpvc/?username=opspj007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/omprakashchy1932@gmail.com) 
+<!-- ![Om Prakash Chaudhary's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=opspj007&theme=dark&show_icons=true) -->
 
-  
-</div><br>
-<!-- Snake Game Repo View -->
+<h1>📊 Github Stats and Activity</h1>
+
+<p align="center">
+    <a href="https://github.com/opspj007/beautiful-github-homepage">
+        <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=opspj007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="opspj007" /></picture>
+    </a>
+    <a href="https://github.com/opspj007?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=opspj007&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@opspj007's github-readme-streak-stats" /></a>
+</p>
+
+<br>
+
+<p align="center">
+    <a href="https://github.com/opspj007/beautiful-github-homepage">
+        <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=opspj007&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture>
+    </a>
+    <!-- <a href="https://github.com/opspj007?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=opspj007&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@opspj007's github-readme-stats"/></a> -->
+    <!-- <a href="https://github.com/opspj007?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=opspj007&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@opspj007's github-readme-streak-stats" /></a> -->
+</p>
+
+<br>
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="opspj007's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=opspj007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+- 😄 I have interests in Generative AI, WordPress architecture, SaaS, automation, and high-performance web applications
+- 👯 I’m looking to collaborate on Generative AI, AI agents, WordPress, and full-stack product development
+
+
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=OP+CHAUDHARY" alt="opchaudhary" /></a>
+  <a href="https://github.com/opspj007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Generative%20AI;5%2B%20years%20of%20experience;Building%20AI-powered%20products&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+
+
+<!-- Social links section -->
+<p align="center">
+  <a href="https://github.com/opspj007"><img width="32px" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/om-prakash-chaudhary-nims/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://opchaudhary.online"><img width="32px" alt="Website" title="Website" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:op@ajupy.com"><img width="32px" alt="Email" title="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
+</p>
+
+
+<br/>
+
+<!-- Social badges section -->
+<p align="center">
+  <a href="https://gitranks.com/profile/opspj007"><img src="https://gitranks.com/api/badge/v2/opspj007?ranking=s&context=global&type=position&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" alt="GitRanks badge for opspj007" /></a>
+ <a href="https://github.com/opspj007?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/opspj007"/>
+   </a>
+  <a href="https://github.com/opspj007?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/opspj007?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/opspj007?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/opspj007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
+<br/>
+
+
+<details open> 
+  <summary><h2>🌠 Top Sponsors</h2></summary>
+
+  <table>
+    <tr>
+      <!-- <th>$10+/month</th> -->
+      <th>$5+/month</th>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://github.com/vornyxyz"><img src="https://avatars.githubusercontent.com/u/6249596?v=4&s=32" width="32" height="32" alt="vornyxyz" /></a>
+        </b>
+      </td>
+      <td>
+        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
+      </td>
+    </tr>
+    <tr>
+      <th>$10+/month</th>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://github.com/2298741867"><img src="https://avatars.githubusercontent.com/u/205374160?v=4&s=32" width="32" height="32" alt="2298741867" /></a>
+        </b>
+      </td>
+    </tr>
+  </table>
+  <a href="https://github.com/sponsors/opspj007/">
+    <img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/>
+  </a>
+</details>
+
+
+
+  # 💻 My favorite tools and technologies 
+
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br>PHP</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>C++</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br>C</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java</td>
+        </tr>
+        <tr>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" /><br>WordPress</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" /><br>Laravel</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br>Next.js</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" /><br>Three.js</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br>FastAPI</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" /><br>Express.js</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br>Vite</td>
+        </tr>
+        <tr>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br>PyTorch</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br>TensorFlow</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /><br>OpenCV</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /><br>NumPy</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /><br>Pandas</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=scikitlearn" width="48" height="48" alt="Scikit-learn" /><br>Scikit-learn</td>
+            <td align="center" width="96"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" /><br>Hugging Face</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" /><br>Jupyter</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" /><br>Anaconda</td>
+        </tr>
+        <tr>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=google" width="48" height="48" alt="Google AI" /><br>Google AI</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gemini" width="48" height="48" alt="Gemini" /><br>Gemini</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="OpenAI" /><br>OpenAI</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure AI" /><br>Azure AI</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS AI" /><br>AWS AI</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=langchain" width="48" height="48" alt="LangChain" /><br>LangChain</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=n8n" width="48" height="48" alt="n8n" /><br>n8n</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ollama" width="48" height="48" alt="Ollama" /><br>Ollama</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /><br>GraphQL</td>
+        </tr>
+        <tr>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>Firebase</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /><br>Supabase</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br>SQLite</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" /><br>DynamoDB</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL APIs" /><br>GraphQL APIs</td>
+        </tr>
+        <tr>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="Google Cloud" /><br>Google Cloud</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Microsoft Azure" /><br>Azure</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br>Cloudflare</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br>Vercel</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br>Netlify</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=hostinger" width="48" height="48" alt="Hostinger" /><br>Hostinger</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="Render" /><br>Render</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /><br>Nginx</td>
+        </tr>
+        <tr>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br>Kubernetes</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br>Bash</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br>GitHub Actions</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" /><br>GitLab</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" /><br>Jenkins</td>
+        </tr>
+        <tr>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" /><br>Blender</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" /><br>Photoshop</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" /><br>Notion</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /><br>Raspberry Pi</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /><br>Unity</td>
+            <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" /><br>Unreal Engine</td>
+        </tr>
+    </table>
+    <br>
+    <br>
+</div>
+
+<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
+
+<br/>  
