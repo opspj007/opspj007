@@ -9,7 +9,7 @@ Working with Generative AI, Gemini, AI APIs, AI Agents, and Multimodal AI.
 Specialized in PHP, WordPress, Laravel, JavaScript, React, Node.js, and MySQL.  
 Interested in AI-assisted development, WordPress architecture, SaaS, automation, and high-performance web applications.
 
-**5+ years of experience** building and developing web platforms and digital products.
+**7+ years of experience** building and developing web platforms and digital products.
 
 Email Me 👉 ✉️ **[op@ajupy.com](mailto:op@ajupy.com)**  
 Visit **[www.opchaudhary.online](https://www.opchaudhary.online)** for collaboration, projects, or anything else. 😊😊
